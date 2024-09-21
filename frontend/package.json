@@ -1,0 +1,38 @@
+{
+  "name": "futuristic-ai-interface",
+  "version": "1.0.0",
+  "description": "An advanced AI interface with a futuristic design using React and TypeScript",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.7",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@types/three": "^0.132.1",
+    "axios": "^1.7.7",
+    "framer-motion": "^4.1.17",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-remove-scroll": "^2.6.0",
+    "react-scripts": "^3.0.1",
+    "three": "^0.132.2",
+    "tslib": "^2.7.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
